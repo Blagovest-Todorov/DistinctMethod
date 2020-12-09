@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\01.LinqTuition\13.Distinct\bin\Debug\netcoreapp3.1\13.Distinct.exe
+C:\Users\Bla\source\repos\01.LinqTuition\13.Distinct\bin\Debug\netcoreapp3.1\13.Distinct.deps.json
+C:\Users\Bla\source\repos\01.LinqTuition\13.Distinct\bin\Debug\netcoreapp3.1\13.Distinct.runtimeconfig.json
+C:\Users\Bla\source\repos\01.LinqTuition\13.Distinct\bin\Debug\netcoreapp3.1\13.Distinct.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.LinqTuition\13.Distinct\bin\Debug\netcoreapp3.1\13.Distinct.dll
+C:\Users\Bla\source\repos\01.LinqTuition\13.Distinct\bin\Debug\netcoreapp3.1\13.Distinct.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\13.Distinct\obj\Debug\netcoreapp3.1\13.Distinct.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\13.Distinct\obj\Debug\netcoreapp3.1\13.Distinct.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.LinqTuition\13.Distinct\obj\Debug\netcoreapp3.1\13.Distinct.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\13.Distinct\obj\Debug\netcoreapp3.1\13.Distinct.dll
+C:\Users\Bla\source\repos\01.LinqTuition\13.Distinct\obj\Debug\netcoreapp3.1\13.Distinct.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\13.Distinct\obj\Debug\netcoreapp3.1\13.Distinct.genruntimeconfig.cache
